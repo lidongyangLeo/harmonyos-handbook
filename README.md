@@ -1,5 +1,11 @@
 # harmonyos-handbook
 
+[![Made with ❤️ by Dongyang Li](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-by%20Dongyang%20Li-blue?style=flat-square)](https://github.com/lidongyang)
+[![Learning HarmonyOS](https://img.shields.io/badge/Learning-HarmonyOS-orange?style=flat-square)](https://developer.harmonyos.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](./LICENSE)
+
+A personal repository for learning and exploring **HarmonyOS development**.  
+This repo includes my notes, code snippets, and experiments while studying HarmonyOS.
 
 ---
 
